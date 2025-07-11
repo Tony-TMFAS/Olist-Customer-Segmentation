@@ -200,6 +200,12 @@ streamlit run streamlit_app.py
 
 ---
 
+
+## 🌐 Live App
+
+👉 [Click here to try the Streamlit App] https://olist-seg.streamlit.app/
+
+
 ## 🙌 Credits
 
 - Dataset from [Olist e-commerce public dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
