@@ -203,7 +203,7 @@ streamlit run streamlit_app.py
 
 ## 🌐 Live App
 
-👉 [Click here to try the Streamlit App] https://olist-seg.streamlit.app/
+👉 Click here to try the Streamlit App: https://olist-seg.streamlit.app/
 
 
 ## 🙌 Credits
