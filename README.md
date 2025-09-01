@@ -1,7 +1,7 @@
 
 # 🛍️ Olist Customer Segmentation Project
 
-This project applies **machine learning** to real e-commerce data from the Brazilian marketplace **Olist** to **segment customers** based on their purchasing behavior. It combines **data science**, **API development**, and **web app deployment** into one smooth pipeline — ideal for portfolio-building or production-ready insights.
+This project applies **machine learning** to real e-commerce data from the Brazilian marketplace **Olist** to **segment customers** based on their purchasing behavior. It combines **data science**, **API development**, and **web app deployment** into one smooth pipeline.
 
 ---
 
